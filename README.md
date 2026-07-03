@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer building fast, scalable systems — backend-heavy, frontend-fluent</h3>
 
 <p align="center">
-📍 Delhi, India &nbsp;|&nbsp; ✉️ <a href="mailto:17prateek12@gmail.com">17prateek12@gmail.com</a> &nbsp;|&nbsp;
+📍 Bangalore, India &nbsp;|&nbsp; ✉️ <a href="mailto:17prateek12@gmail.com">17prateek12@gmail.com</a> &nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/prateek-sharma1712/">LinkedIn</a> &nbsp;|&nbsp;
 <a href="https://prateek-portfolio-rho.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
 <a href="https://github.com/17prateek12">GitHub</a>
